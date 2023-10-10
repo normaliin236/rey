@@ -1,0 +1,121 @@
+
+body {
+    background: #353553;
+    font-family: 'Kanit', sans-serif;
+    width: 920px;
+}
+.Container {
+    align-items: center;
+    color: rgb(236, 236, 236);
+    position: relative;
+    left: 400px;
+}
+.Container tr th {
+    width: 300px;
+    height: 30px;
+}
+
+.Container td{
+    height: 40px;
+    color: white;
+}
+
+
+
+
+
+body h1 {
+    color: white;
+    
+
+}
+
+.Continueshopping a{
+    color: rgb(241, 241, 241);
+    position: relative;
+    left: 400px;
+    top: 400px;
+    font-family: 'Kanit', sans-serif;
+    font-size: 20px;
+
+}
+body .resetbtn {
+    width: 100px;
+    height: 40px;
+    font-size: 16px;
+    font-family: 'Kanit', sans-serif;
+    cursor: pointer;
+    color: white;
+    background-color: rgb(167, 51, 51);
+    border: 1px solid rgb(196, 107, 24);
+    border-radius: 4px;
+
+}
+
+body .resetbtn:hover{
+    background-color: transparent;
+    border: 1px solid rgb(196, 107, 24);
+}
+.shoppingcartname {
+    position: relative;
+    left: 600px;
+}
+
+.Vouchercode {
+    position: relative;
+    top: 100px;
+    left: 400px;
+}
+
+.EnterVoucherCode {
+    color: aliceblue;
+    position: relative;
+    top: 13px;
+    font-style: italic;
+    font-family: 'Kanit', sans-serif;
+
+}
+
+.Vouchercode .Entercode {
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 15px;
+}
+
+.Applybtn {
+    width: 150px;
+    height: 37px;
+    border-radius: 5px;
+    border: 2px solid #3ab755;
+    background-color: #3ab7558e;
+    cursor: pointer;
+    color: white;
+    font-size: 17px;
+    font-style: unset;
+    filter: drop-shadow(0 10px 3px #3ab75534);
+}
+
+.Applybtn:hover {
+    background-color: transparent;
+}
+
+.removeapply {
+     position: relative;
+     left: 400px;
+     top: 140px;
+     width: 180px;
+     height: 37px;
+     border-radius: 5px;
+     border: 2px solid #ce413c;
+     background-color: #ce413c48;
+     cursor: pointer;
+     color: white;
+     font-size: 14px;
+     filter: drop-shadow(0 10px 3px rgba(236, 6, 6, 0.137));
+}
+
+.removeapply:hover {
+    background-color: transparent;
+}

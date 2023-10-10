@@ -1,0 +1,24 @@
+*{
+
+}
+
+body {
+    background-image: url(Images/848a1f92871765754d455cd9babddf73.jpg);
+    font-family: 'Kanit', sans-serif;
+}
+
+.lebrongwapo  {
+    position: relative;
+    top: 200px;
+    left: 550px;
+    width: 370px;
+}
+
+.vouchercode {
+    width: 200px;
+    height: 60px;
+    background-color: rgb(189, 52, 170);
+    border: 2px solid rgb(189, 52, 170);
+    text-align: center;
+    color: aliceblue;
+}
